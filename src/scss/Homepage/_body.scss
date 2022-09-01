@@ -1,34 +1,5 @@
-.card{
-    width: 800px;
+html,
+body {
+  height: 100%
 }
-
-.feed-images{
-    display:flex;
-    flex-direction:column;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin-top: 30px;
-}
-
-.new-post{
-    display:flex;
-    flex-direction:column;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin-top: 30px;
-    background-color: rgb(229, 229, 229);
-
-}
-
-.input-group{
-    width: 500px;
-    /*display: flex;*/
-}
-
-.image-upload{
-    margin-top: 30px;
-}
-
 
