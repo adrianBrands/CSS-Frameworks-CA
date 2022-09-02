@@ -63,3 +63,12 @@ $display-font-sizes: (
   5: 3rem,
   6: 2.5rem
 );
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 830px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
